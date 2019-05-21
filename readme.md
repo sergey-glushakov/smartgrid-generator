@@ -4,7 +4,7 @@
 ### Старт 
 ***
 #### в консоли набираем команду : 
-```  node smartgrid-config.js```
+```  node smartgrid.js```
 
 #### в папку `build` генерируется файл ``` smart-grid.scss``` 
 
